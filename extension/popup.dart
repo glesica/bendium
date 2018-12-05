@@ -3,7 +3,7 @@ import 'dart:html';
 
 import 'package:bendium/bendium.dart';
 import 'package:bendium/src/actions.dart';
-import 'package:chrome/chrome_ext.dart' as chrome;
+import 'package:bendium/src/chrome/chrome.dart' as chrome;
 import 'package:react/react_dom.dart' as react_dom;
 import 'package:react/react_client.dart' as react_client;
 import 'utils.dart';
